@@ -25,6 +25,10 @@ My name is Hiep and I don't have a lover :broken_heart:
 <a href="https://github.com/hiepdeptrai0908/Create-new-project-React">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hiepdeptrai0908&repo=Create-new-project-React&theme=maroongold" />
 </a>
+<a href="https://github.com/hiepdeptrai0908/html_ao_dai_shop">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hiepdeptrai0908&repo=html_ao_dai_shop&theme=highcontrast" />
+</a>
+
 <a href="https://github.com/hiepdeptrai0908/html_music">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hiepdeptrai0908&repo=html_music&theme=shades-of-purple" />
 </a>
