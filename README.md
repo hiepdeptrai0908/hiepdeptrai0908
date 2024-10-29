@@ -3,12 +3,9 @@
 My name is Hiep and I don't have a lover :broken_heart:
 </br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hiepdeptrai0908&theme=gruvbox&row=1&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=hiepdeptrai0908&theme=gruvbox&row=1&column=5)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepdeptrai0908&layout=compact&count_private=false&show_icons=true&theme=onedark" />
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepdeptrai0908&layout=compact&exclude_repo=Tips-tools)](https://github.com/anuraghazra/github-readme-stats)
 <!-- show projects -->
 
 ### :four_leaf_clover: Repositories
