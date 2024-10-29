@@ -13,6 +13,11 @@ My name is Hiep and I don't have a lover :broken_heart:
 
 ### :four_leaf_clover: Repositories
 
+![Trieu Quang Hiep Github stats](https://github-readme-stats.vercel.app/api?username=hiepdeptrai0908&show_icons=true&theme=radical)
+
+<a href="https://github.com/hiepdeptrai0908/MicroService-Banking-Team2">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hiepdeptrai0908&repo=MicroService-Banking-Team2&theme=vue-dark" />
+</a>
 <a href="https://github.com/hiepdeptrai0908/333-staff-ui">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hiepdeptrai0908&repo=333-staff-ui&theme=vue-dark" />
 </a>
